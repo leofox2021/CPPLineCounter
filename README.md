@@ -9,7 +9,7 @@ Check this instruction on how to install MinGW on Windows: https://www.ics.uci.e
 If you are using any other C++ compiler like Visual Studio C/C++, it is expected to work just fine, 
 
 
-since no special libraries are used in the script. 
+since no special libraries are used in the script (although not tested by myself). 
 
 All necessary instructions are provided as comments in the .cpp file.
 
